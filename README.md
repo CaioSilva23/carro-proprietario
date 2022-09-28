@@ -3,4 +3,4 @@ carro-proprietario
 
 ## LISTAGEM DE PROPRIETÁRIO E SEUS VEÍCULOS
 
-## DJANGO E POSTGRES BD
+## Django e PostgreSQL 
